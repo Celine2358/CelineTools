@@ -1,7 +1,6 @@
-[CelineTools_README.md](https://github.com/user-attachments/files/26093107/CelineTools_README.md)
 # CelineTools
 # CelineTools v1.1 — 사용 설명서 (README)
-<img width="867" height="706" alt="CelineToolsIcon" src="https://github.com/user-attachments/assets/28fce5fb-e0c8-4793-ad3c-a2e9d3756bff" />
+<img width="433.5" height="353" alt="CelineToolsIcon" src="https://github.com/user-attachments/assets/28fce5fb-e0c8-4793-ad3c-a2e9d3756bff" />
 
 **버전**: 1.1.0  
 **작성일**: 2026-03-19
